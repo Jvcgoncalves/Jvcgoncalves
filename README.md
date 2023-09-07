@@ -25,7 +25,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jvcgoncalves}/count.svg" /></p> 
+<p align="center"><img align="center" width=150 src="https://komarev.com/ghpvc/?username=Jvcgoncalves&style=flat-square&color=blueviolet" /></p> 
 <br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer"/>
