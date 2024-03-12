@@ -25,10 +25,14 @@
   
 ### Studying at this moment
   ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
+  ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" width=150 src="https://komarev.com/ghpvc/?username=Jvcgoncalves&style=flat-square&color=blueviolet" /></p> 
 <br></div>
+
+## Let's work together
+  -- My email: goncalvesdaocosta05@gmail.com <br>
+  -- My whatsapp: +55 (45) 99921-8780
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer"/>
