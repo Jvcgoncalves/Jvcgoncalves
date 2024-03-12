@@ -26,6 +26,7 @@
 ### Studying at this moment
   ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" width=150 src="https://komarev.com/ghpvc/?username=Jvcgoncalves&style=flat-square&color=blueviolet" /></p> 
