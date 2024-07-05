@@ -38,4 +38,4 @@
   -- My email: goncalvesdacosta05@gmail.com <br>
   -- My whatsapp: +55 (45) 99921-8780
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6601b3&height=200&section=footer"/>
