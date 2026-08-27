@@ -1,39 +1,132 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6601b3&height=200&section=header&text=João+Vitor&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=f1f1f1"/>
+<h1 align="center">Hi, I'm João Vitor Gonçalves 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=20&duration=4000&pause=1000&color=6800F7&center=true&vCenter=true&width=1000&lines=My+name+is+Jo%C3%A3o+Vitor+Gon%C3%A7alves+Da+Costa;i'm+20+years+old;Web+developer)](https://git.io/typing-svg)
+<h3 align="center">
+  Full Stack Developer · Software Engineering Student
+</h3>
 
+<p align="center">
+  <a href="https://portfolio.goncalves-dev.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaovitorgoncalvesdacosta/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:goncalvesdacosta05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvcgoncalves&theme=react-dark)
+## About me
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/joaovitorgon%C3%A7alvesdacosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+I'm a **Full Stack Developer from Brazil**, currently working with the development and evolution of web applications, APIs and business systems.
 
-### Main skills:
-  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  
-### Studying at this moment
-  ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" width=150 src="https://komarev.com/ghpvc/?username=Jvcgoncalves&style=flat-square&color=blueviolet" /></p> 
-<br></div>
+I enjoy working across the stack, but I have a particular interest in **backend architecture, system integrations, application performance and maintainable software design**.
 
-## Let's work together
-  -- My email: goncalvesdacosta05@gmail.com <br>
-  -- My whatsapp: +55 (45) 99921-8780
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6601b3&height=200&section=footer"/>
+- 💼 Working professionally with web development at **TECINCO Tecnologia**
+- 🎓 Software Engineering student at **Centro Universitário FAG**
+- 🧩 Experience developing and integrating **REST APIs**
+- 🏗️ Interested in backend architecture, distributed systems and scalable applications
+- 🐳 Working with Docker, CI/CD and modern development workflows
+- 🧪 Focused on clean code, automated testing and software quality
+- 🌎 Based in **Cascavel, Paraná, Brazil**
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,sass,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify,express" />
+</p>
+
+**Node.js · NestJS · Fastify · Express · REST APIs · JWT · Zod**
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+**PostgreSQL · MongoDB · Mongoose · Prisma**
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode,postman" />
+</p>
+
+**Docker · Docker Compose · Git · GitLab CI/CD · Linux · Turborepo · pnpm**
+
+---
+
+## Featured Projects
+
+### 🚗 Vehicles Website
+
+Full-stack vehicle catalog developed with Angular and a dedicated backend API.
+
+**Frontend**
+
+- Angular
+- TypeScript
+- Angular Material
+- Bootstrap
+- Sass
+
+**Backend**
+
+- Node.js
+- TypeScript
+- Express
+- MongoDB
+- Mongoose
+
+[Frontend →](https://github.com/Jvcgoncalves/vehicles-website) ·
+[Backend →](https://github.com/Jvcgoncalves/vehicle-site-backend)
+
+---
+
+### 📦 Stock Manager
+
+Inventory management application created as one of my earlier full-stack projects.
+
+It includes product management, authentication and persistent user-specific data.
+
+[Frontend →](https://github.com/Jvcgoncalves/stock-manager) ·
+[Backend →](https://github.com/Jvcgoncalves/stock-manager-backend)
+
+---
+
+## What I'm currently focusing on
+
+```text
+Backend Architecture
+├── Node.js / TypeScript
+├── Fastify
+├── REST APIs
+├── PostgreSQL / MongoDB
+├── Authentication & Authorization
+├── Testing
+└── Distributed Systems
+
+Frontend
+├── Angular
+├── TypeScript
+├── RxJS
+├── Signals
+└── Modern component architecture
+
+DevOps
+├── Docker
+├── CI/CD
+├── GitLab
+└── Linux
