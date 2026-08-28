@@ -110,19 +110,19 @@ It includes product management, authentication and persistent user-specific data
 
 ```text
 Backend Architecture
-├── Node.js / TypeScript
+├── NestJS
 ├── Fastify
-├── REST APIs
 ├── PostgreSQL / MongoDB
-├── Authentication & Authorization
+├── Authentication, Authorization and Security
 ├── Testing
 └── Distributed Systems
 
 Frontend
-├── Angular
+├── React 
+├── Tanstack
 ├── TypeScript
 ├── RxJS
-├── Signals
+├── Modern angular
 └── Modern component architecture
 
 DevOps
